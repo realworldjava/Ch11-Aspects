@@ -1,0 +1,15 @@
+/Chapter Content/~$ring Framework.docx
+~*.docx
+~*.tmp
+.idea/
+*.iml
+
+.gradle
+/build/
+
+**/bin/**
+target
+
+**/*.class
+
+**/java-log*
